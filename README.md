@@ -14,3 +14,5 @@ pip install -r requirements.txt
 ```
 export SL_USER=
 export SL_PASS=
+python SLLogGrabber.py
+```
